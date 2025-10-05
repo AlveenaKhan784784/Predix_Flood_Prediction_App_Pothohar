@@ -2,6 +2,10 @@
 
 This project predicts the probability of flooding based on recent weather data such as rainfall, temperature, wind speed, and humidity. It uses NASA’s open data and a trained machine learning model to provide early flood risk alerts.
 
+
+[Download Demo Presentation (PPT) of the Flood Prediction App](https://docs.google.com/presentation/d/1GIIs4VhrR1ypJEn3ndqKP5AN8Ag0BRFc/edit?usp=sharing&ouid=117224472580048483502&rtpof=true&sd=true)
+
+
 ---
 
 ## 🚀 Features
