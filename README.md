@@ -24,12 +24,6 @@ We use data from:
 - **NASA POWER (Data Access Viewer)** — a powerful tool to retrieve climatology and weather parameters for any location.  
   [POWER Data Access Viewer](https://power.larc.nasa.gov/data-access-viewer/?utm_source=chatgpt.com) 
 
-How it works:
-
-1. Input rainfall, temperature, wind speed, and humidity data (obtained from these datasets).  
-2. The trained model calculates the flood probability.  
-3. The app displays whether there’s a flood alert or not.  
-
 ---
 
 ## 🛠️ Technologies Used
@@ -38,6 +32,18 @@ How it works:
 - **Pandas**  
 - **Scikit-learn**  
 - **NumPy**  
-- **NASA GPM & NASA POWER datasets**  
+- **NASA GPM & NASA POWER datasets**
+
+--- 
+
+# 🌧️ Live Demo
+Try the Flood Prediction App online here:  
+[Open App](https://predixfloodpredictionapppothohar-bf7s8umyrbheijvvekb7yn.streamlit.app/)
+
+## How to use: 
+1. Enter past 3 days rainfall (mm), current temperature, wind speed, and humidity.  
+2. Select the forecast date.  
+3. Click **Predict Flood Risk**.  
+4. View flood probability and alert.
 
 ---
